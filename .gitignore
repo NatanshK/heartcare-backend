@@ -10,3 +10,5 @@ __pycache__/
 
 # macOS
 .DS_Store
+ecg_model.pth 
+models/
